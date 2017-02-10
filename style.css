@@ -8,6 +8,7 @@ body
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 input[type=text] {
@@ -203,7 +204,7 @@ div#picture
 	border: 3px solid #494949;
 	clear: both;
 	border-radius: 15px;
-  background-size: auto 175px;
+  background-size: 254px 175px;
   background-repeat: no-repeat;
 }
 
@@ -469,7 +470,6 @@ div#stats
 	background-color: #30da0c;
 	z-index: 1;
 	font-size: 13px;
-	font-family: arial, sans-serif;
 	position: absolute;
 	top: 130px;
 	left: 25px;
